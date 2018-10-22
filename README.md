@@ -143,7 +143,7 @@ Topic: Vue js
 
 ## Team Member 21
 
-Topic:Javascript
+Topic: Javascript & AJAX
 
 ## Team Member 22
 
