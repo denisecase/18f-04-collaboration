@@ -75,7 +75,7 @@ Topic:
 
 ## Team Member 4
 
-Topic:
+Topic: CSS is pretty cool 
 
 ## Team Member 5
 
@@ -105,9 +105,9 @@ Topic:
 
 Topic:
 
-## Team Member 12
+## Team Member 12 
 
-Topic:
+Topic: java script
 
 ## Team Member 13
 
