@@ -119,7 +119,7 @@ Topic:
 
 ## Team Member 15
 
-Topic:
+Topic: I like implementing javascript
 
 ## Team Member 16
 
@@ -135,7 +135,7 @@ Topic:
 
 ## Team Member 19
 
-Topic:
+Topic:I like JavaScript& Bootstrap
 
 ## Team Member 20
 
