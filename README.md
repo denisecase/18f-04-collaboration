@@ -104,7 +104,7 @@ Topic:
 
 ## Team Member 12 
 
-Topic:java script
+Topic: java script
 
 ## Team Member 13
 
