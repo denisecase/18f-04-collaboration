@@ -79,7 +79,7 @@ Topic: CSS is pretty cool
 
 ## Team Member 5
 
-Topic:
+Topic: java sacript
 
 ## Team Member 6
 
@@ -101,9 +101,9 @@ Topic:
 
 Topic:
 
-## Team Member 11
+## Team Member 11 
 
-Topic:
+Topic: HTML is great!!
 
 ## Team Member 12 
 
