@@ -148,7 +148,7 @@ Topic:
 
 ## Team Member 23
 
-Topic:
+Topic: I like CSS
 
 ## Team Member 24
 
