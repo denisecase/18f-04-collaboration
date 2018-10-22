@@ -52,23 +52,26 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic: Introducing others to web technologies
+Topic:
 
 ## B - Assistant
 
-Topic: React
+Topic:
 
 ## Team Member 1
 
-Topic: I love implementing JQuery
+Topic:
 
 ## Team Member 2
 
-Topic: Front end is best 
-
-## Team Member 3
-
 Topic:
+
+## Team Member 3 - Daiwei Chen
+
+### Topic: Using WebApps Unconventionally
+
+`> When you see 40+ people editing on the same document`
+![Sweating](https://media.giphy.com/media/LRVnPYqM8DLag/giphy.gif)
 
 ## Team Member 4
 
@@ -163,12 +166,13 @@ Topic:
 Topic: Bootstrap is best for adding graphics
 
 ## Team Member 27
+I am interested in css
 
 Topic:
 
 ## Team Member 28
 
-Topic:
+Topic:Editing CSS!
 
 ## Team Member 29
 
