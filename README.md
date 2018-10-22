@@ -75,7 +75,7 @@ Topic:
 
 ## Team Member 4
 
-Topic: CSS is pretty cool
+Topic: CSS is pretty cool 
 
 ## Team Member 5
 
