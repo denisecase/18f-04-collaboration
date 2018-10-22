@@ -83,7 +83,7 @@ Topic: java sacript
 
 ## Team Member 6
 
-Topic:
+Topic: I would love to work with Javascript and backend.
 
 ## Team Member 7
 
@@ -131,7 +131,7 @@ Topic: JSON
 
 ## Team Member 18
 
-Topic:
+Topic: I love Web apps
 
 ## Team Member 19
 
