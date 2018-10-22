@@ -83,7 +83,7 @@ Topic: java sacript
 
 ## Team Member 6
 
-Topic:
+Topic: I would love to work with Javascript and backend.
 
 ## Team Member 7
 
