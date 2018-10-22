@@ -60,11 +60,11 @@ Topic: React
 
 ## Team Member 1
 
-Topic:
+Topic: I love implementing JQuery
 
 ## Team Member 2
 
-Topic:
+Topic: Front end is best 
 
 ## Team Member 3
 
@@ -136,7 +136,7 @@ Topic:
 
 ## Team Member 20
 
-Topic:
+Topic: Vue js
 
 ## Team Member 21
 
@@ -160,7 +160,7 @@ Topic:
 
 ## Team Member 26
 
-Topic:
+Topic: Bootstrap is best for adding graphics
 
 ## Team Member 27
 I am interested in css
