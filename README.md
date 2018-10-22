@@ -60,11 +60,11 @@ Topic: React
 
 ## Team Member 1
 
-Topic: I love implementing JQuery
+Topic:
 
 ## Team Member 2
 
-Topic: Front end is best 
+Topic:
 
 ## Team Member 3
 
@@ -148,7 +148,7 @@ Topic:
 
 ## Team Member 23
 
-Topic: I like CSS
+Topic: I like CSS.
 
 ## Team Member 24
 
