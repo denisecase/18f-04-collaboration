@@ -136,7 +136,7 @@ Topic:
 
 ## Team Member 20
 
-Topic: Vue js topic
+Topic: Vue js
 
 ## Team Member 21
 
