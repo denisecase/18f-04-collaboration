@@ -52,7 +52,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic:
+Topic: Introducing people to powerful webapp technologies
 
 ## B - Assistant
 
@@ -79,11 +79,11 @@ Topic: CSS is pretty cool
 
 ## Team Member 5
 
-Topic:
+Topic: java sacript
 
 ## Team Member 6
 
-Topic:
+Topic: I would love to work with Javascript and backend.
 
 ## Team Member 7
 
@@ -101,9 +101,9 @@ Topic:
 
 Topic:
 
-## Team Member 11
+## Team Member 11 
 
-Topic:
+Topic: HTML is great!!
 
 ## Team Member 12 
 
@@ -131,7 +131,7 @@ Topic: JSON
 
 ## Team Member 18
 
-Topic:
+Topic: I love Web apps
 
 ## Team Member 19
 
@@ -143,7 +143,7 @@ Topic: Vue js
 
 ## Team Member 21
 
-Topic:
+Topic: Javascript & AJAX
 
 ## Team Member 22
 
