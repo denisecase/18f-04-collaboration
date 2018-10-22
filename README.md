@@ -75,11 +75,11 @@ Topic:
 
 ## Team Member 4
 
-Topic:
+Topic: CSS is pretty cool 
 
 ## Team Member 5
 
-Topic:
+Topic: java sacript
 
 ## Team Member 6
 
@@ -105,9 +105,9 @@ Topic:
 
 Topic: HTML is great!!
 
-## Team Member 12
+## Team Member 12 
 
-Topic:
+Topic: java script
 
 ## Team Member 13
 
@@ -119,7 +119,7 @@ Topic:
 
 ## Team Member 15
 
-Topic:
+Topic: I like implementing javascript
 
 ## Team Member 16
 
@@ -127,7 +127,7 @@ Topic: Feather.js , EJS, CSS, HTML
 
 ## Team Member 17
 
-Topic:
+Topic: JSON
 
 ## Team Member 18
 
@@ -135,7 +135,7 @@ Topic:
 
 ## Team Member 19
 
-Topic:
+Topic:I like JavaScript& Bootstrap
 
 ## Team Member 20
 
