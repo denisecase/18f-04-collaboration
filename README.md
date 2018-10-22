@@ -60,7 +60,7 @@ Topic: React
 
 ## Team Member 1
 
-Topic:
+Topic: I love implementing JQuery
 
 ## Team Member 2
 
