@@ -64,7 +64,7 @@ Topic: I love implementing JQuery
 
 ## Team Member 2
 
-Topic:
+Topic: Front end is best 
 
 ## Team Member 3
 
@@ -168,7 +168,7 @@ Topic:
 
 ## Team Member 28
 
-Topic:Editing CSS
+Topic:Editing CSS!
 
 ## Team Member 29
 
