@@ -72,7 +72,7 @@ Topic:
 
 ## Team Member 4
 
-Topic: CSS
+Topic: CSS is pretty cool
 
 ## Team Member 5
 
