@@ -64,7 +64,7 @@ Topic: I love implementing JQuery
 
 ## Team Member 2
 
-Topic:
+Topic: Front end is best 
 
 ## Team Member 3
 
@@ -136,7 +136,7 @@ Topic:I like JavaScript& Bootstrap
 
 ## Team Member 20
 
-Topic:
+Topic: Vue js
 
 ## Team Member 21
 
@@ -160,7 +160,7 @@ Topic:
 
 ## Team Member 26
 
-Topic:
+Topic: Bootstrap is best for adding graphics
 
 ## Team Member 27
 
