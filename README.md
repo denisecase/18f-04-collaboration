@@ -64,7 +64,7 @@ Topic: I love implementing JQuery
 
 ## Team Member 2
 
-Topic:
+Topic: Front end is best 
 
 ## Team Member 3
 
