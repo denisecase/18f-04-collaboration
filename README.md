@@ -160,7 +160,7 @@ Topic:
 
 ## Team Member 26
 
-Topic:
+Topic: Bootstrap is best for adding graphics
 
 ## Team Member 27
 
