@@ -56,7 +56,7 @@ Topic: Introducing others to web technologies
 
 ## B - Assistant
 
-Topic:
+Topic: React
 
 ## Team Member 1
 
