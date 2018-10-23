@@ -60,7 +60,7 @@ Topic:
 
 ## Team Member 1
 
-Topic:
+Topic: Javascript is super powerful and I absolutely love it
 
 ## Team Member 2
 
