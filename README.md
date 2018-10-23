@@ -147,7 +147,7 @@ Topic: Javascript & AJAX
 
 ## Team Member 22
 
-Topic:
+Topic: I love developing web applications
 
 ## Team Member 23
 
