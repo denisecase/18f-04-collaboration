@@ -56,7 +56,7 @@ Topic: Introducing people to powerful webapp technologies
 
 ## B - Assistant
 
-Topic:
+Topic:React js
 
 ## Team Member 1
 
