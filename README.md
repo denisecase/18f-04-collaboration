@@ -119,7 +119,7 @@ Topic:I LIKE  STYLING so CSS
 
 ## Team Member 15
 
-Topic: I like implementing javascript
+Topic: I like implementing Javascript
 
 ## Team Member 16
 
