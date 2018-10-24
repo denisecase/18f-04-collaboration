@@ -131,7 +131,7 @@ Topic: JSON
 
 ## Team Member 18
 
-Topic: I love Web apps
+Topic: I love Web apps.
 
 ## Team Member 19
 
