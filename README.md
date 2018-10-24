@@ -150,7 +150,7 @@ Topic: Javascript & AJAX
 Topic: I love developing web applications
 
 ## Team Member 23
-Hyndavi Reddy
+Hyndavi  Reddy
 Topic: I like CSS.
 
 ## Team Member 24
