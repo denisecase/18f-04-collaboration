@@ -91,8 +91,8 @@ Topic:
 Topic:
 
 ## Team Member 9
-
-Topic:
+Karthik Reddy signing in...
+Topic:DevOps
 
 ## Team Member 10
 
