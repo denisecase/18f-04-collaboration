@@ -85,9 +85,9 @@ Topic: java sacript
 
 Topic: I would love to work with Javascript and backend.
 
-## Team Member 7
-
-Topic:
+## Team Member 7 
+Harish Reddy Signing in.........
+Topic: DevOps
 
 ## Team Member 8
 
