@@ -94,12 +94,12 @@ Topic: DevOps
 Topic:
 
 ## Team Member 9
-Karthik Reddy signing in.....
-Topic:DevOps
+Karthik Reddy
+Topic: CSS
 
 ## Team Member 10
 
-Topic: AJAX 
+Topic: JavaScript
 
 ## Team Member 11 
 Prakash Reddy Mamidi
