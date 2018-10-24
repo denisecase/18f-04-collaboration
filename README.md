@@ -52,15 +52,15 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic:
+Topic: Introducing people to powerful webapp technologies
 
 ## B - Assistant
 
-Topic:
+Topic:React js
 
 ## Team Member 1
 
-Topic:
+Topic: Javascript is super powerful and I absolutely love it
 
 ## Team Member 2
 
@@ -75,51 +75,51 @@ Topic:
 
 ## Team Member 4
 
-Topic:
+Topic: CSS is pretty cool 
 
 ## Team Member 5
 
-Topic:
+Topic: java sacript
 
 ## Team Member 6
 
-Topic:
+Topic: I would love to work with Javascript and backend.
 
-## Team Member 7
-
-Topic:
+## Team Member 7 
+Harish Reddy Signing in.........
+Topic: DevOps
 
 ## Team Member 8
 Sairam Badisa
 Topic:html,css
 
 ## Team Member 9
-
-Topic:
+Karthik Reddy
+Topic: CSS
 
 ## Team Member 10
 
-Topic:
+Topic: JavaScript
 
-## Team Member 11
+## Team Member 11 
+Prakash Reddy Mamidi
+Topic: HTML is great!!
 
-Topic:
-
-## Team Member 12
-
-Topic:
+## Team Member 12 
+Abhinay Reddy Kaitha
+Topic: java script
 
 ## Team Member 13
 
-Topic:
+Topic: I like Bootstrap!
 
 ## Team Member 14
 
-Topic:
+Topic:I LIKE  STYLING so CSS
 
 ## Team Member 15
 
-Topic:
+Topic: I like implementing Javascript
 
 ## Team Member 16
 
@@ -127,15 +127,15 @@ Topic: Feather.js , EJS, CSS, HTML
 
 ## Team Member 17
 
-Topic:
+Topic: JSON
 
 ## Team Member 18
 
-Topic:
+Topic: I love Web apps
 
 ## Team Member 19
 
-Topic:
+Topic:I like JavaScript& Bootstrap
 
 ## Team Member 20
 
@@ -143,15 +143,15 @@ Topic: Vue js
 
 ## Team Member 21
 
-Topic:
+Topic: Javascript & AJAX
 
 ## Team Member 22
 
-Topic:
+Topic: I love developing web applications
 
 ## Team Member 23
-
-Topic:
+Hyndavi  Reddy
+Topic: I like CSS.
 
 ## Team Member 24
 
@@ -159,7 +159,7 @@ Topic:
 
 ## Team Member 25
 
-Topic:
+Topic: Naveen Lagudu
 
 ## Team Member 26
 
@@ -240,4 +240,4 @@ Topic:
 
 ## Team Member 45
 
-Topic:
+Topic: HTML!!!
