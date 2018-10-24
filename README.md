@@ -63,8 +63,7 @@ Topic:React js
 Topic: Javascript is super powerful and I absolutely love it
 
 ## Team Member 2- Sagar Tiwari
-
-Topic: Front end is best.
+Topic: Front end is best and css is fun. 
 
 ## Team Member 3 - Daiwei Chen
 
