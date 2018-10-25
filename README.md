@@ -184,7 +184,7 @@ Topic:
 
 ## Team Member 31
 
-Topic:
+Topic: featuring javascript
 
 ## Team Member 32
 
